@@ -1,0 +1,48 @@
+{
+  "koneruharshith356@gmail.com": {
+    "filename": "koneruharshith356@gmail.com_1770390519.377828_Stockholm-Resume-Template-Simple.pdf",
+    "uploaded_at": "2026-02-06T20:38:39.507270",
+    "extracted_data": {
+      "email": "email@email.com",
+      "phone": "\n3868683442",
+      "skills": [],
+      "education": [],
+      "experience": []
+    }
+  },
+  "24eg105k54@anurag.edu.in": {
+    "filename": "24eg105k54@anurag.edu.in_1770392490.741184_Stockholm-Resume-Template-Simple.pdf",
+    "uploaded_at": "2026-02-06T21:11:30.866070",
+    "extracted_data": {
+      "email": "email@email.com",
+      "phone": "\n3868683442",
+      "skills": [],
+      "education": [],
+      "experience": []
+    }
+  },
+  "abc@gmail.com": {
+    "filename": "abc@gmail.com_1770396709.248151_Stockholm-Resume-Template-Simple.pdf",
+    "uploaded_at": "2026-02-06T22:21:49.370475",
+    "extracted_data": {
+      "email": "email@email.com",
+      "phone": "\n3868683442",
+      "skills": [
+        "html",
+        "java",
+        "python"
+      ],
+      "education": [],
+      "experience": []
+    },
+    "provided_qualifications": [
+      "Btech",
+      "Computer science engineering"
+    ],
+    "provided_skills": [
+      "python",
+      "java",
+      "html"
+    ]
+  }
+}

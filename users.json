@@ -1,0 +1,37 @@
+{
+  "koneruharshith356@gmail.com": {
+    "email": "koneruharshith356@gmail.com",
+    "name": "Koneru Harshith",
+    "password_hash": "pbkdf2:sha256:600000$sd0NRibedLrgztBu$77d536fc3c7ed800cb0327bb2ed9999ab3cac8a2b9ee8ad3a68229325ba40f1a",
+    "created_at": "2026-02-06T20:38:12.371590",
+    "resume": "koneruharshith356@gmail.com_1770390519.377828_Stockholm-Resume-Template-Simple.pdf"
+  },
+  "24eg105k54@anurag.edu.in": {
+    "email": "24eg105k54@anurag.edu.in",
+    "name": "Varre Naga Deepthi",
+    "password_hash": "",
+    "created_at": "2026-02-06T21:11:04.016171",
+    "resume": "24eg105k54@anurag.edu.in_1770392490.741184_Stockholm-Resume-Template-Simple.pdf"
+  },
+  "24eg105k36@anurag.edu.in": {
+    "email": "24eg105k36@anurag.edu.in",
+    "name": "Koneru Harshith",
+    "password_hash": "",
+    "created_at": "2026-02-06T21:17:11.635700",
+    "resume": null
+  },
+  "koneruravindra@gmail.com": {
+    "email": "koneruravindra@gmail.com",
+    "name": "Varre Naga Deepthi",
+    "password_hash": "",
+    "created_at": "2026-02-06T21:19:56.128025",
+    "resume": null
+  },
+  "abc@gmail.com": {
+    "email": "abc@gmail.com",
+    "name": "abcd",
+    "password_hash": "",
+    "created_at": "2026-02-06T22:20:07.699761",
+    "resume": "abc@gmail.com_1770396709.248151_Stockholm-Resume-Template-Simple.pdf"
+  }
+}
